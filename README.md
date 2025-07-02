@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## About
+Hey! I'm Josh, an honors student pursuing the double life of a linguist and a software engineer. I enjoy hiking, baking, and, most of all, conlanging (constructing languages). I am passionate about programming applications for organization, automation, and creativity, especially when they relate to conlanging.
 <!--
 **jrb7183/jrb7183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,7 +4,7 @@ Hey! I'm Josh, an honors student pursuing the double life of a linguist and a so
 
 <!--
 **jrb7183/jrb7183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrb7183&langs_count=5&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrb7183&langs_count=7&theme=tokyonight&hide=Shell,Batchfile,Tcl)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
